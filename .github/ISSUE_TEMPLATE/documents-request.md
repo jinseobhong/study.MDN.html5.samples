@@ -1,9 +1,9 @@
 ---
 name: Documents request
 about: Documentation on this branch
-title: ''
-labels: ''
-assignees: ''
+title: Documents request
+labels: documentation
+assignees: jinseobhong
 
 ---
 

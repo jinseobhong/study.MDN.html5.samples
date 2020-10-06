@@ -1,7 +1,7 @@
 ---
 name: Examples request
 about: Examples to write on this branch
-title: ''
+title: Examples request
 labels: example
 assignees: jinseobhong
 
