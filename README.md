@@ -1,5 +1,4 @@
 # HTML이란?
----
 
 HTML(Hypertext Markup Language, 하이퍼텍스트 마크업 언어)은 Hypertext markup Language의 약자로, 웹 페이지가 어떻게 구조화되어 있는 지 브라우저로 하여금 알 수 있도록 하는 마크업 언어입니다.
 
