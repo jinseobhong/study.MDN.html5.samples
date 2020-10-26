@@ -7,6 +7,6 @@
 * [Creating hyperlinks](https://www.notion.so/HTML-815eb9c04616493c8592469417300dd8)
 * [Advanced text formatting](https://www.notion.so/HTML-Advanced-text-formatting-8bd9a85e7da54455ab56ab42901f9382)
 * [Document and website structure](https://www.notion.so/HTML-Document-and-website-structure-5a4b09be466742579c41b1dfd95d8876)
-* Debugging HTML
+* [Debugging_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 * Assessment: Marking up a letter
 * Assessment: Structuring a page of content
