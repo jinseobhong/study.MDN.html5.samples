@@ -9,4 +9,4 @@
 * [Document and website structure](https://www.notion.so/HTML-Document-and-website-structure-5a4b09be466742579c41b1dfd95d8876)
 * [Debugging_HTML](https://www.notion.so/HTML-HTML-4f6fb26161e24c41acf59de2706f9d38)
 * [Assessment: Marking up a letter](https://www.notion.so/HTML-c74d0ad080f8491cb3ea59e2ab1ac399)
-* Assessment: Structuring a page of content
+* [Assessment: Structuring a page of content](https://www.notion.so/HTML-e8c65ebe31b24b4e81851c090b76b28b)
