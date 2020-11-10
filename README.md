@@ -1,5 +1,4 @@
 # git.studyMDN-html5-samples
----
 
 이 저장소는 HTML5 학습을 위해 [MDN web docs](https://developer.mozilla.org/ko/docs/Web/HTML)를 실습 예제들을 저장하였습니다.
 
